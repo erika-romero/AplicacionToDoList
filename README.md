@@ -1,1 +1,1 @@
-# PruebasTecnicaQa
+# PruebasTecnicasQa
